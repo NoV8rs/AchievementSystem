@@ -1,0 +1,11 @@
+C:\Console_Projects\C#\Training\Training\AchievementSystem\bin\Debug\net10.0\AchievementSystem.deps.json
+C:\Console_Projects\C#\Training\Training\AchievementSystem\bin\Debug\net10.0\AchievementSystem.dll
+C:\Console_Projects\C#\Training\Training\AchievementSystem\bin\Debug\net10.0\AchievementSystem.pdb
+C:\Console_Projects\C#\Training\Training\AchievementSystem\obj\Debug\net10.0\AchievementSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Console_Projects\C#\Training\Training\AchievementSystem\obj\Debug\net10.0\AchievementSystem.AssemblyInfoInputs.cache
+C:\Console_Projects\C#\Training\Training\AchievementSystem\obj\Debug\net10.0\AchievementSystem.AssemblyInfo.cs
+C:\Console_Projects\C#\Training\Training\AchievementSystem\obj\Debug\net10.0\AchievementSystem.csproj.CoreCompileInputs.cache
+C:\Console_Projects\C#\Training\Training\AchievementSystem\obj\Debug\net10.0\AchievementSystem.dll
+C:\Console_Projects\C#\Training\Training\AchievementSystem\obj\Debug\net10.0\refint\AchievementSystem.dll
+C:\Console_Projects\C#\Training\Training\AchievementSystem\obj\Debug\net10.0\AchievementSystem.pdb
+C:\Console_Projects\C#\Training\Training\AchievementSystem\obj\Debug\net10.0\ref\AchievementSystem.dll
