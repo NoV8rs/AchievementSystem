@@ -1,9 +1,4 @@
-﻿using Enum = System.Enum;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-
-namespace AchievementSystem
+﻿namespace AchievementSystem
 {
     // ---------------------------------------------------------
     // ACHIEVEMENT CLASSES
